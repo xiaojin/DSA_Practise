@@ -1,0 +1,7 @@
+{
+    "chat.agent.enabled": false,
+    "geminicodeassist.chat.enableStreaming": false,
+    "geminicodeassist.enable": false,
+    "geminicodeassist.enableTelemetry": false,
+    "geminicodeassist.inlineSuggestions.enableAuto": false
+}
